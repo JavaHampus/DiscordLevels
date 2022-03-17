@@ -1,0 +1,24 @@
+{
+  "name": "discordlevels",
+  "version": "1.0.0",
+  "description": "A Discord.js Package that handles levels.",
+  "main": "./src/testing/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavaHampus/DiscordLevels.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JavaHampus/DiscordLevels/issues"
+  },
+  "homepage": "https://github.com/JavaHampus/DiscordLevels#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "events": "^3.3.0",
+    "mongoose": "^6.2.6"
+  }
+}

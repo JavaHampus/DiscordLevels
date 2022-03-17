@@ -22,6 +22,11 @@ lib-cov
 coverage
 *.lcov
 
+# JavaScript / SourceMap files
+*.js
+
+src/testing/index.ts
+
 # nyc test coverage
 .nyc_output
 
